@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 **First project [HTML5,CSS3]**<br />
 My Resume - [Code](https://github.com/factvlad/Summary)
 [Demo](https://verb.pp.ua/)<br /> 
+![GitHub Logo](https://avatars.githubusercontent.com/u/71657155?v=4)
+Format: ![Alt Text](url)
 
  **Лендинг "Создание бота" на Angular и StencilJS**<br />
 Веб-компоненты на StencilJS - [Код](https://github.com/Wokh-Dada/botdevelopmentapp)<br />
