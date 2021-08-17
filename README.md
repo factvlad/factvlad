@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## My project
 
 **First project [HTML5,CSS3]**<br />
-My Resume - [Code](https://github.com/factvlad/Summary)<br />
+My Resume - [Code](https://github.com/factvlad/Summary)
 [Demo](https://verb.pp.ua/)<br /> 
 
  **Лендинг "Создание бота" на Angular и StencilJS**<br />
