@@ -41,7 +41,7 @@ Format: ![Alt Text](url) -->
 
 **Сайт-портфолио** "Не завершен"<br />
 Веб-компоненты на StencilJS - [Код](https://github.com/Wokh-Dada/portfolio-site)<br />
-Angular - [Код](https://github.com/Wokh-Dada/portfolioInAngular) | [Демо](https://wokh-dada.github.io/portfolioInAngular/)<br /> --> --> --> -->
+Angular - [Код](https://github.com/Wokh-Dada/portfolioInAngular) | [Демо](https://wokh-dada.github.io/portfolioInAngular/)<br /> --> 
 
 ## My Telegram
 
