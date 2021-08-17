@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 My Resume - [Code](https://github.com/factvlad/Summary)
 [Demo](https://verb.pp.ua/)<br /> 
 
- **First porject on React**<br />
+ **First porject on React [ReactJs,NodeJs,Bootstrap]**<br />
 Note-Creater - [Code](https://github.com/factvlad/note-creater)<br />
 
 ## My Telegram
