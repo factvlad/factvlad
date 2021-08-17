@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 ## My project
 
-<!-- **Проект маркетплейс на Angular и StencilJS**<br />
-Веб-компоненты на StencilJS - [Код](https://github.com/Wokh-Dada/shop-market.git)<br />
-Бизнес-логика на Angular - [Код](https://github.com/Wokh-Dada/ng-market.git) | [Демо](https://wokh-dada.github.io/ng-market-place/)<br />
+First project [HTML5,CSS3]**<br />
+My Resume - [Code](https://github.com/factvlad/Summary)<br />
+[Demo](https://verb.pp.ua/)<br /> 
 
-**Лендинг "Создание бота" на Angular и StencilJS**<br />
+<!-- **Лендинг "Создание бота" на Angular и StencilJS**<br />
 Веб-компоненты на StencilJS - [Код](https://github.com/Wokh-Dada/botdevelopmentapp)<br />
 Бизнес-логика на Angular - [Код](https://github.com/Wokh-Dada/botDevelAppInAngular) | [Демо](https://wokh-dada.github.io/botDevelAppInAngular/)<br />
 
@@ -39,11 +39,12 @@ Here are some ideas to get you started:
 
 **Сайт-портфолио** "Не завершен"<br />
 Веб-компоненты на StencilJS - [Код](https://github.com/Wokh-Dada/portfolio-site)<br />
-Angular - [Код](https://github.com/Wokh-Dada/portfolioInAngular) | [Демо](https://wokh-dada.github.io/portfolioInAngular/)<br /> -->
+Angular - [Код](https://github.com/Wokh-Dada/portfolioInAngular) | [Демо](https://wokh-dada.github.io/portfolioInAngular/)<br /> --> -->
 
 ## My Telegram
 
 <a href="https://t.me/Vladi_Verb" rel="nofollow">
 <img src="https://camo.githubusercontent.com/dff510e1fc950068c2459737c7373ebe8c3c95e8d80a477c2268ec589ffd41f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d7265643f7374796c653d736f6369616c266c6f676f3d74656c656772616d" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-red?style=social&amp;logo=telegram" style="max-width:100%;">
 </a>
+
 
