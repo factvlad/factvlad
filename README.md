@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 ## My project
 
-First project [HTML5,CSS3]**<br />
+**First project [HTML5,CSS3]**<br />
 My Resume - [Code](https://github.com/factvlad/Summary)<br />
 [Demo](https://verb.pp.ua/)<br /> 
 
-<!-- **Лендинг "Создание бота" на Angular и StencilJS**<br />
+ **Лендинг "Создание бота" на Angular и StencilJS**<br />
 Веб-компоненты на StencilJS - [Код](https://github.com/Wokh-Dada/botdevelopmentapp)<br />
-Бизнес-логика на Angular - [Код](https://github.com/Wokh-Dada/botDevelAppInAngular) | [Демо](https://wokh-dada.github.io/botDevelAppInAngular/)<br />
+<!-- Бизнес-логика на Angular - [Код](https://github.com/Wokh-Dada/botDevelAppInAngular) | [Демо](https://wokh-dada.github.io/botDevelAppInAngular/)<br /> -->
 
 **Лендинг "Банк" на Angular и StencilJS**<br />
 Веб-компоненты на StencilJS - [Код](https://github.com/Wokh-Dada/companycards)<br />
