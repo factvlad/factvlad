@@ -5,9 +5,9 @@
 - 📅 Year of birth: 1992
 - 📍 Location: Odessa, Ukraine
 - ⚡ I love pop culture, watch movie, travel, freerun, play videogames and freerun.
-- 💻 Not frontend only, REST API, MySQL backend (Node.js), etc.
+<!-- - 💻 Not frontend only, REST API, MySQL backend (Node.js), etc.
 - 🕷 Web-scraping (Node.js puppeteer/cheerio, Python beautifulsoup)
-
+ -->
 ### Connect with me:
 
 [<img align="left" alt="factvlad | Twitter" width="48px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
