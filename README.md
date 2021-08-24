@@ -38,7 +38,7 @@
 
 <br>
 
-### My projects
+## My projects
 
 **First project [HTML5,CSS3]**<br />
 My Resume - [Code](https://github.com/factvlad/Summary)
