@@ -1,19 +1,23 @@
 
-<!--
-**factvlad/factvlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Vlad - starting front-end developer 👋
 
-Here are some ideas to get you started:
+## I'm a Geek, cinephile and just a good person!
+- 📅 Year of birth: 1992
+- 📍  Location: Odessa, Ukraine
+- ⚡ I love pop culture, watch movie, travel, freerun, play videogames and  freerun.
+- 💻 Not frontend only, REST API, MySQL backend (Node.js), etc.
+- 🕷 Web-scraping (Node.js puppeteer/cheerio, Python beautifulsoup)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[<img align="left" alt="lexapetrov | Twitter" width="48px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="lexapetrov | Instagram" width="48px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="lexapetrov | Mail" width="48px" src="https://img.icons8.com/fluent/48/000000/important-mail.png" />][mail]
+[<img align="left" alt="lexapetrov | Telegram" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
 
+<br />
+<br />
+
+### Languages and Tools:
 ## ✋Hello, my name is Vlad and I am a junior frontend developer.
 
 </br>
@@ -47,3 +51,9 @@ Note-Creater - [Code](https://github.com/factvlad/note-creater)<br />
 </a>
 
 
+
+[mail]: mailto:vladiverbitsky@gmail.com
+[twitter]: https://twitter.com/vladverbitsky/
+[instagram]: https://www.instagram.com/vladi_verb/
+[telegram]: https://t.me/Vladi_Verb
+[github repository]: https://github.com/factvlad/
