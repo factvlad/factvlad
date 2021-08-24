@@ -9,18 +9,14 @@
 - 🕷 Web-scraping (Node.js puppeteer/cheerio, Python beautifulsoup)
 
 ### Connect with me:
-[<img align="left" alt="lexapetrov | Twitter" width="48px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="lexapetrov | Instagram" width="48px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="lexapetrov | Mail" width="48px" src="https://img.icons8.com/fluent/48/000000/important-mail.png" />][mail]
-[<img align="left" alt="lexapetrov | Telegram" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
+[<img align="left" alt="factvlad | Twitter" width="48px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="factvlad | Instagram" width="48px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="factvlad | Mail" width="48px" src="https://img.icons8.com/fluent/48/000000/important-mail.png" />][mail]
+[<img align="left" alt="factvlad | Telegram" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
 
 <br />
 <br />
 
-### Languages and Tools:
-## ✋Hello, my name is Vlad and I am a junior frontend developer.
-
-</br>
 
 ## My stack 
 
