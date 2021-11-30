@@ -44,15 +44,15 @@
 Psychology - [Code](https://github.com/factvlad/Psychology)
 [Demo](http://krizhanovska.pp.ua//)<br />
 
-**First project [HTML5,CSS3]**<br />
+**First project [pet] [HTML5,CSS3]**<br />
 My Resume - [Code](https://github.com/factvlad/Summary)
 [Demo](https://verb.pp.ua/)<br />
 
-**First adaptive and BEM [HTML5,CSS3,BEM,RESPONSIVE]**<br />
+**First responsive and BEM  [pet] [HTML5,CSS3,BEM,RESPONSIVE]**<br />
 Space Market - [Code](https://github.com/factvlad/Space)
 [Demo](https://factvlad.github.io/Space/)<br />
 
-**First porject on React [ReactJs,NodeJs,Bootstrap]**<br />
+**First porject on React [pet] [ReactJs,NodeJs,Bootstrap]**<br />
 Note-Creater - [Code](https://github.com/factvlad/note-creater)<br />
 
 <!-- ## My Telegram
