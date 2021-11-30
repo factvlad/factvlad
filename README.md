@@ -42,7 +42,7 @@
 
 **First commercial project [HTML5,SCSS,BEM,RESPONSIVE]**<br />
 Psychology - [Code](https://github.com/factvlad/Psychology)
-[Demo](http://krizhanovska.pp.ua//)<br />
+[Demo](http://krizhanovska.pp.ua/)<br />
 
 **First project [pet] [HTML5,CSS3]**<br />
 My Resume - [Code](https://github.com/factvlad/Summary)
