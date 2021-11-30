@@ -40,11 +40,15 @@
 
 ### My projects
 
+**First commercial project [HTML5,SCSS,BEM,RESPONSIVE]**<br />
+Psychology - [Code](https://github.com/factvlad/Psychology)
+[Demo](http://krizhanovska.pp.ua//)<br />
+
 **First project [HTML5,CSS3]**<br />
 My Resume - [Code](https://github.com/factvlad/Summary)
 [Demo](https://verb.pp.ua/)<br />
 
-**First adaptive and BEM [HTML5,CSS3,BEM,ADAPTIVE]**<br />
+**First adaptive and BEM [HTML5,CSS3,BEM,RESPONSIVE]**<br />
 Space Market - [Code](https://github.com/factvlad/Space)
 [Demo](https://factvlad.github.io/Space/)<br />
 
