@@ -40,9 +40,9 @@
 
 ### My projects
 
-**First commercial project [HTML5,SCSS,BEM,RESPONSIVE]**<br />
-Psychology - [Code](https://github.com/factvlad/Psychology)
-[Demo](http://krizhanovska.pp.ua/)<br />
+**Second commercial project [HTML5,SCSS,BEM,RESPONSIVE]**<br />
+Nail Studio - [Code](https://github.com/factvlad/Nail-studio)
+[Demo](https://factvlad.github.io/Nail-studio/app/)<br />
 
 **First commercial project [HTML5,SCSS,BEM,RESPONSIVE]**<br />
 Psychology - [Code](https://github.com/factvlad/Psychology)
