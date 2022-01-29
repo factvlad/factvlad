@@ -44,6 +44,10 @@
 Psychology - [Code](https://github.com/factvlad/Psychology)
 [Demo](http://krizhanovska.pp.ua/)<br />
 
+**First commercial project [HTML5,SCSS,BEM,RESPONSIVE]**<br />
+Psychology - [Code](https://github.com/factvlad/Psychology)
+[Demo](http://krizhanovska.pp.ua/)<br />
+
 **First project [pet] [HTML5,CSS3]**<br />
 My Resume - [Code](https://github.com/factvlad/Summary)
 [Demo](https://verb.pp.ua/)<br />
@@ -64,5 +68,5 @@ Note-Creater - [Code](https://github.com/factvlad/note-creater)<br />
 [mail]: mailto:vladiverbitsky@gmail.com
 [twitter]: https://twitter.com/vladverbitsky/
 [instagram]: https://www.instagram.com/vladi_verb/
-[telegram]: https://t.me/Vladi_Verb
+[telegram]: https://t.me/vlad_verb
 [github repository]: https://github.com/factvlad/
