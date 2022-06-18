@@ -2,12 +2,9 @@
 
 ## I'm a Geek, cinephile and just a good person!
 
-- 📅 Year of birth: 1992
-- 📍 Location: Odessa, Ukraine
+- 📅 City of birth: Odessa, Ukraine <img align="left" alt="Ukraine Flag" width="30px" src="https://cdn.icon-icons.com/icons2/1694/PNG/512/uaukraineflag_111966.png" />
+- 📍 Location: Bucharest, Romania 
 - ⚡ I love pop culture, watch movie, travel, freerun, play videogames and freerun.
-<!-- - 💻 Not frontend only, REST API, MySQL backend (Node.js), etc.
-- 🕷 Web-scraping (Node.js puppeteer/cheerio, Python beautifulsoup)
- -->
 ### Connect with me:
 
 [<img align="left" alt="factvlad | Twitter" width="48px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
@@ -39,6 +36,10 @@
 <br>
 
 ### My projects
+
+**Commercial project [HTML5,CSS,BEM,RESPONSIVE]**<br />
+Psychology - [Code](https://github.com/factvlad/Bulgarka)
+[Demo](https://bulgarkaguesthouse.site/)<br />
 
 **First commercial project [HTML5,SCSS,BEM,RESPONSIVE]**<br />
 Psychology - [Code](https://github.com/factvlad/Psychology)
