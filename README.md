@@ -2,9 +2,10 @@
 
 ## I'm a Geek, cinephile and just a good person!
 
-- 📅 City of birth: Odessa, Ukraine <img align="right" alt="Ukraine Flag" width="30px" height="30" src="https://cdn.icon-icons.com/icons2/1694/PNG/512/uaukraineflag_111966.png" />
-- 📍 Location: Bucharest, Romania 
+- 📅 City of birth: Odessa, Ukraine <img  alt="Ukraine Flag" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+- 📍 Location: Bucharest, Romania (From Ukraine)
 - ⚡ I love pop culture, watch movie, travel, freerun, play videogames and freerun.
+
 ### Connect with me:
 
 [<img align="left" alt="factvlad | Twitter" width="48px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
@@ -37,16 +38,6 @@
 
 ### My projects
 
-<<<<<<< HEAD
-**Commercial project [HTML5,CSS,BEM,RESPONSIVE]**<br />
-Psychology - [Code](https://github.com/factvlad/Bulgarka)
-[Demo](https://bulgarkaguesthouse.site/)<br />
-=======
-**Second commercial project [HTML5,SCSS,BEM,RESPONSIVE]**<br />
-Nail Studio - [Code](https://github.com/factvlad/Nail-studio)
-[Demo](https://factvlad.github.io/Nail-studio/app/)<br />
->>>>>>> 6eebe2a8d0d697e80bf1b7169c16963466ac192a
-
 **First commercial project [HTML5,SCSS,BEM,RESPONSIVE]**<br />
 Psychology - [Code](https://github.com/factvlad/Psychology)
 [Demo](http://krizhanovska.pp.ua/)<br />
@@ -71,5 +62,5 @@ Note-Creater - [Code](https://github.com/factvlad/note-creater)<br />
 [mail]: mailto:vladiverbitsky@gmail.com
 [twitter]: https://twitter.com/vladverbitsky/
 [instagram]: https://www.instagram.com/vladi_verb/
-[telegram]: https://t.me/vlad_verb
+[telegram]: https://t.me/Vladi_Verb
 [github repository]: https://github.com/factvlad/
