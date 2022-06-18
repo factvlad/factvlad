@@ -37,9 +37,15 @@
 
 ### My projects
 
+<<<<<<< HEAD
 **Commercial project [HTML5,CSS,BEM,RESPONSIVE]**<br />
 Psychology - [Code](https://github.com/factvlad/Bulgarka)
 [Demo](https://bulgarkaguesthouse.site/)<br />
+=======
+**Second commercial project [HTML5,SCSS,BEM,RESPONSIVE]**<br />
+Nail Studio - [Code](https://github.com/factvlad/Nail-studio)
+[Demo](https://factvlad.github.io/Nail-studio/app/)<br />
+>>>>>>> 6eebe2a8d0d697e80bf1b7169c16963466ac192a
 
 **First commercial project [HTML5,SCSS,BEM,RESPONSIVE]**<br />
 Psychology - [Code](https://github.com/factvlad/Psychology)
@@ -65,5 +71,5 @@ Note-Creater - [Code](https://github.com/factvlad/note-creater)<br />
 [mail]: mailto:vladiverbitsky@gmail.com
 [twitter]: https://twitter.com/vladverbitsky/
 [instagram]: https://www.instagram.com/vladi_verb/
-[telegram]: https://t.me/Vladi_Verb
+[telegram]: https://t.me/vlad_verb
 [github repository]: https://github.com/factvlad/
