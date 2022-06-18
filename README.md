@@ -2,7 +2,7 @@
 
 ## I'm a Geek, cinephile and just a good person!
 
-- 📅 City of birth: Odessa, Ukraine <img  alt="Ukraine Flag" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+- 📅 City of birth: Odessa, Ukraine <img  alt="Ukraine Flag" width="30px" src="https://cdn.icon-icons.com/icons2/1694/PNG/512/uaukraineflag_111966.png" />
 - 📍 Location: Bucharest, Romania (From Ukraine)
 - ⚡ I love pop culture, watch movie, travel, freerun, play videogames and freerun.
 
