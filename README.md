@@ -3,7 +3,7 @@
 ## I'm a Geek, cinephile and just a good person!
 
 - 📅 City of birth: Odessa, Ukraine <img  alt="Ukraine Flag" width="20px" height="15" src="https://cdn.icon-icons.com/icons2/1694/PNG/512/uaukraineflag_111966.png" />
-- 📍 Location: Bucharest, Romania (From Ukraine)
+- 📍 Location: Bucharest, Romania
 - ⚡ I love pop culture, watch movie, travel, freerun, play videogames and freerun.
 
 ### Connect with me:
@@ -37,6 +37,10 @@
 <br>
 
 ### My projects
+
+**First commercial project [HTML5,CSS,BEM,RESPONSIVE]**<br />
+Psychology - [Code](https://github.com/factvlad/Psychology)
+[Demo](http://krizhanovska.pp.ua/)<br />
 
 **First commercial project [HTML5,SCSS,BEM,RESPONSIVE]**<br />
 Psychology - [Code](https://github.com/factvlad/Psychology)
