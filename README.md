@@ -39,7 +39,7 @@
 ### My projects
 
 **Commercial project [HTML5,CSS,BEM,RESPONSIVE]**<br />
-Psychology - [Code](https://github.com/factvlad/Bulgarka)
+Bulgarka GuestHouse - [Code](https://github.com/factvlad/Bulgarka)
 [Demo](https://bulgarkaguesthouse.site/)<br />
 
 **First commercial project [HTML5,SCSS,BEM,RESPONSIVE]**<br />
