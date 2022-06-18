@@ -38,9 +38,9 @@
 
 ### My projects
 
-**First commercial project [HTML5,CSS,BEM,RESPONSIVE]**<br />
-Psychology - [Code](https://github.com/factvlad/Psychology)
-[Demo](http://krizhanovska.pp.ua/)<br />
+**Commercial project [HTML5,CSS,BEM,RESPONSIVE]**<br />
+Psychology - [Code](https://github.com/factvlad/Bulgarka)
+[Demo](https://bulgarkaguesthouse.site/)<br />
 
 **First commercial project [HTML5,SCSS,BEM,RESPONSIVE]**<br />
 Psychology - [Code](https://github.com/factvlad/Psychology)
