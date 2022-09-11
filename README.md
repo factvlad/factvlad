@@ -38,27 +38,27 @@
 
 ### My projects
 
-**Commercial project [HTML5, CSS, jQuery,BEM,RESPONSIVE]**<br />
+**Commercial project [HTML5, CSS, jQuery, BEM, RESPONSIVE]**<br />
 Bulgarka GuestHouse - [Code](https://github.com/factvlad/Bulgarka)
 [Demo](https://bulgarkaguesthouse.site/)<br />
 
-**Commercial project [HTML5,SCSS,jQuery,BEM,RESPONSIVE]**<br />
+**Commercial project [HTML5, SCSS, jQuery, BEM, RESPONSIVE]**<br />
 Bulgarka GuestHouse - [Code](https://github.com/factvlad/Nail-studio)
 [Demo](https://nailstudio.pp.ua/)<br />
 
-**First commercial project [HTML5,SCSS,jQuery,BEM,RESPONSIVE]**<br />
+**First commercial project [HTML5, SCSS, jQuery, BEM, RESPONSIVE]**<br />
 Psychology - [Code](https://github.com/factvlad/Psychology)
 [Demo](http://krizhanovska.pp.ua/)<br />
 
-**First pet project [pet] [HTML5,CSS3]**<br />
+**First pet project [pet] [HTML5, CSS3]**<br />
 My Resume - [Code](https://github.com/factvlad/Summary)
 [Demo](https://verb.pp.ua/)<br />
 
-**First responsive and BEM [pet] [HTML5,CSS3,BEM,RESPONSIVE]**<br />
+**First responsive and BEM [pet] [HTML5, CSS3, BEM, RESPONSIVE]**<br />
 Space Market - [Code](https://github.com/factvlad/Space)
 [Demo](https://factvlad.github.io/Space/)<br />
 
-**First porject on React [pet] [ReactJs,NodeJs,Bootstrap,MQSL]**<br />
+**First porject on React [pet] [ReactJs, NodeJs, Bootstrap, MQSL]**<br />
 Note-Creater - [Code](https://github.com/factvlad/note-creater)<br />
 
 <!-- ## My Telegram
