@@ -38,7 +38,7 @@
 
 ### My projects
 
-**Commercial project [HTML5,CSS,jQuery,BEM,RESPONSIVE]**<br />
+**Commercial project [HTML5, CSS, jQuery,BEM,RESPONSIVE]**<br />
 Bulgarka GuestHouse - [Code](https://github.com/factvlad/Bulgarka)
 [Demo](https://bulgarkaguesthouse.site/)<br />
 
