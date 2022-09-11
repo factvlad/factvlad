@@ -43,7 +43,7 @@ Bulgarka GuestHouse - [Code](https://github.com/factvlad/Bulgarka)
 [Demo](https://bulgarkaguesthouse.site/)<br />
 
 **Commercial project [HTML5, SCSS, jQuery, BEM, RESPONSIVE]**<br />
-Bulgarka GuestHouse - [Code](https://github.com/factvlad/Nail-studio)
+Nail Studio - [Code](https://github.com/factvlad/Nail-studio)
 [Demo](https://nailstudio.pp.ua/)<br />
 
 **First commercial project [HTML5, SCSS, jQuery, BEM, RESPONSIVE]**<br />
