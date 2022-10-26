@@ -38,6 +38,11 @@
 
 ### My projects
 
+
+**Team React project [React, Redux, SASS, BEM, RESPONSIVE]**<br />
+Bulgarka GuestHouse - [Code](https://github.com/factvlad/slim-moms)
+[Demo](https://slim-moms-leonidnf.netlify.app/)<br />
+
 **Commercial project [HTML5, CSS, jQuery, BEM, RESPONSIVE]**<br />
 Bulgarka GuestHouse - [Code](https://github.com/factvlad/Bulgarka)
 [Demo](https://bulgarkaguesthouse.site/)<br />
@@ -70,5 +75,5 @@ Note-Creater - [Code](https://github.com/factvlad/note-creater)<br />
 [mail]: mailto:vladiverbitsky@gmail.com
 [twitter]: https://twitter.com/vladverbitsky/
 [instagram]: https://www.instagram.com/vladi_verb/
-[telegram]: https://t.me/Vladi_Verb
+[telegram]: https://t.me/vlad_verb/
 [github repository]: https://github.com/factvlad/
