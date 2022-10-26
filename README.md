@@ -6,7 +6,7 @@
 - 📍 Location: Bucharest, Romania
 - 🌐 English : pre intermediate, Ukraine : Native, Poland : Elementary 
 - ⚡ I love web development💕, pop culture, travel, play videogames and freerun.
-#  - 🔍 Looking for junior/trainee front-end/full-stack positions. Maybe it will be your company?🙏
+#####   - 🔍 Looking for junior/trainee front-end/full-stack positions. Maybe it will be your company?🙏
 
 ### Connect with me:
 
