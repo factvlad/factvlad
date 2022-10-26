@@ -5,7 +5,6 @@
 - 📍 Location: Bucharest, Romania
 - 🌐 English : Pre intermediate, Ukraine : Native, Poland : Elementary 
 - ⚡ I love web development💕, pop culture, travel, play videogames and freerun.
-<br />
 
 ### Connect with me
 
