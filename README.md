@@ -31,7 +31,7 @@
 
 <br>
 
-### My projects ## Hi there, I'm Vlad - starting front-end developer 👋
+## Hi there, I'm Vlad - starting front-end developer 👋
 
 **Team React project [React, Redux, SASS, BEM, RESPONSIVE]**<br />
 Smim Moms - [Code](https://github.com/factvlad/slim-moms)
