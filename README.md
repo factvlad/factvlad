@@ -4,7 +4,9 @@
 
 - 📅 City of birth: Odessa, Ukraine <img  alt="Ukraine Flag" width="20px" height="15" src="https://cdn.icon-icons.com/icons2/1694/PNG/512/uaukraineflag_111966.png" />
 - 📍 Location: Bucharest, Romania
-- ⚡ I love web development, pop culture, travel, play videogames and freerun.
+- 🌐 English : pre intermediate, Ukraine : Native, Poland : Elementary 
+- ⚡ I love web development💕, pop culture, travel, play videogames and freerun.
+- 🔍 Looking for junior/trainee front-end/full-stack positions. Maybe it will be your company?🙏
 
 ### Connect with me:
 
@@ -33,7 +35,6 @@
 
 ### My projects
 
-
 **Team React project [React, Redux, SASS, BEM, RESPONSIVE]**<br />
 Smim Moms - [Code](https://github.com/factvlad/slim-moms)
 [Demo](https://slim-moms-leonidnf.netlify.app/)<br />
@@ -57,7 +58,6 @@ My Resume - [Code](https://github.com/factvlad/Summary)
 **First responsive and BEM [pet] [HTML5, CSS3, BEM, RESPONSIVE]**<br />
 Space Market - [Code](https://github.com/factvlad/Space)
 [Demo](https://factvlad.github.io/Space/)<br />
-
 
 [mail]: mailto:vladiverbitsky@gmail.com
 [twitter]: https://twitter.com/vladverbitsky/
