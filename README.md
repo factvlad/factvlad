@@ -29,7 +29,8 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="photoshop" width="30px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" />
 
-<br>
+<br />
+<br />
 
 ### My projects
 
