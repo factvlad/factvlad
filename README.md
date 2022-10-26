@@ -8,9 +8,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+
 ### Connect with me
 
 [<img align="left" alt="factvlad | Twitter" width="48px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
