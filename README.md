@@ -6,8 +6,6 @@
 - 🌐 English : Pre intermediate, Ukraine : Native, Poland : Elementary 
 - ⚡ I love web development💕, pop culture, travel, play videogames and freerun.
 <br />
-<br />
-<br />
 
 ### Connect with me
 
