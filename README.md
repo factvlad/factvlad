@@ -6,7 +6,7 @@
 - 🌐 English : Pre intermediate, Ukraine : Native, Poland : Elementary 
 - ⚡ I love web development💕, pop culture, travel, play videogames and freerun.
 
-### Connect with me: -
+### Connect with me
 
 [<img align="left" alt="factvlad | Twitter" width="48px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="factvlad | Instagram" width="48px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
@@ -16,7 +16,7 @@
 <br />
 <br />
 
-### Languages -
+### Languages
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -31,7 +31,7 @@
 
 <br>
 
-### My projects -
+### My projects
 
 **Team React project [React, Redux, SASS, BEM, RESPONSIVE]**<br />
 Smim Moms - [Code](https://github.com/factvlad/slim-moms)
