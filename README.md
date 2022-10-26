@@ -35,7 +35,7 @@
 
 
 **Team React project [React, Redux, SASS, BEM, RESPONSIVE]**<br />
-Bulgarka GuestHouse - [Code](https://github.com/factvlad/slim-moms)
+Smims Moms - [Code](https://github.com/factvlad/slim-moms)
 [Demo](https://slim-moms-leonidnf.netlify.app/)<br />
 
 **Commercial project [HTML5, CSS, jQuery, BEM, RESPONSIVE]**<br />
