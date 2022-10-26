@@ -1,10 +1,9 @@
 ## Hi there, I'm Vlad - starting front-end developer 👋
-
 ### 🔍 Looking for junior/trainee front-end/full-stack positions. Maybe it will be your company?🙏
 
 - 📅 City of birth: Odessa, Ukraine <img  alt="Ukraine Flag" width="20px" height="15" src="https://cdn.icon-icons.com/icons2/1694/PNG/512/uaukraineflag_111966.png" />
 - 📍 Location: Bucharest, Romania
-- 🌐 English : pre intermediate, Ukraine : Native, Poland : Elementary 
+- 🌐 English : Pre intermediate, Ukraine : Native, Poland : Elementary 
 - ⚡ I love web development💕, pop culture, travel, play videogames and freerun.
 
 ### Connect with me:
