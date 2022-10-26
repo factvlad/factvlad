@@ -63,8 +63,6 @@ My Resume - [Code](https://github.com/factvlad/Summary)
 Space Market - [Code](https://github.com/factvlad/Space)
 [Demo](https://factvlad.github.io/Space/)<br />
 
-**First project on React [pet] [ReactJs, NodeJs, Bootstrap, MQSL]**<br />
-Note-Creater - [Code](https://github.com/factvlad/note-creater)<br />
 
 <!-- ## My Telegram
 
