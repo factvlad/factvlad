@@ -5,7 +5,12 @@
 - 📍 Location: Bucharest, Romania
 - 🌐 English : Pre intermediate, Ukraine : Native, Poland : Elementary 
 - ⚡ I love web development💕, pop culture, travel, play videogames and freerun.
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 ### Connect with me
 
 [<img align="left" alt="factvlad | Twitter" width="48px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
