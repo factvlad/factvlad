@@ -16,7 +16,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+### Languages and Tools: ## Hi there, I'm Vlad - starting front-end developer 👋
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -31,7 +31,7 @@
 
 <br>
 
-### My projects
+### My projects ## Hi there, I'm Vlad - starting front-end developer 👋
 
 **Team React project [React, Redux, SASS, BEM, RESPONSIVE]**<br />
 Smim Moms - [Code](https://github.com/factvlad/slim-moms)
