@@ -35,7 +35,7 @@
 ### My projects
 
 **Team React project [React, Redux, SASS, BEM, RESPONSIVE]**<br />
-Smim Moms - [Code](https://github.com/factvlad/slim-moms)
+Slim Moms - [Code](https://github.com/factvlad/slim-moms)
 [Demo](https://slim-moms-leonidnf.netlify.app/)<br />
 
 **Commercial project [HTML5, CSS, jQuery, BEM, RESPONSIVE]**<br />
